@@ -221,3 +221,7 @@ __marimo__/
 
 # Streamlit
 .streamlit/secrets.toml
+
+# Large local datasets (exceed GitHub 100 MB limit)
+ratebeer.json.gz
+
